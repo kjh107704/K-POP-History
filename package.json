@@ -4,6 +4,7 @@
   "description": "문득 만들면 재밌겠다 라는 생각이 들어 시작하게 되었습니다.",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon --exec ts-node src/index.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
